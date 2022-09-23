@@ -1,0 +1,6 @@
+﻿1, Mobile Phone, 600, Samsumg s500, 15, office
+2, Laptop, 3200, Lg D32, 2, pc
+3, Keyboard, 35, Sony s3, 25, office
+4, Mouse, 10, Toshiba n32, 8, office
+5, Pen, 1, Gold, 150, office
+6, Notebook, 1, Lenovo a12, 1, pc
