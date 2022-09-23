@@ -37,7 +37,7 @@ namespace Task_1
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+                pattern: "{controller=Calc}/{action=Add}/{value1?}/{value2?}");
 
             app.Run();
         }
